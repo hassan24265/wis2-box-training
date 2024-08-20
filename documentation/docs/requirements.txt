@@ -1,4 +1,0 @@
-mkdocs
-mkdocs-material
-mkdocs-print-site-plugin
-mkdocs-table-reader-plugin
