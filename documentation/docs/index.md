@@ -5,7 +5,7 @@ title: Home
 <img alt="WMO logo" src="assets/img/wmo-logo.png" width="200">
 # WIS2 in a box training
 
-WIS2 in a box ([wis2box](https://docs.wis2box.wis.wmo.int)) is a Free and Open Source (FOSS) Reference Implementation of a WMO WIS2 Node. The project provides a plug and play toolset to ingest, process, and publish weather/climate/water data using standards-based approaches in alignment with the WIS2 principles. wis2box also provides access to all data in the WIS2 network. wis2box is designed to have a low barrier to entry for data providers, providing enabling infrastructure and services for data discovery, access, and visualization.
+WIS2 in a box ([wis2box](https://docs.wis2box.wis.has.int)) is a Free and Open Source (FOSS) Reference Implementation of a WMO WIS2 Node. The project provides a plug and play toolset to ingest, process, and publish weather/climate/water data using standards-based approaches in alignment with the WIS2 principles. wis2box also provides access to all data in the WIS2 network. wis2box is designed to have a low barrier to entry for data providers, providing enabling infrastructure and services for data discovery, access, and visualization.
 
 This training provides step-by-step explanations of various aspects of the wis2box project as well as a number of exercises
 to help you publish and download data from WIS2.  The training is provided in the form of overview presentations as well as
@@ -87,9 +87,9 @@ Container names (running images) are denoted in **bold**.
 
 ## Training location and materials
 
-This training is always provided live at [https://training.wis2box.wis.wmo.int](https://training.wis2box.wis.wmo.int).
+This training is always provided live at [https://training.wis2box.wis.has.int](https://training.wis2box.wis.has.int).
 
-The training contents, wiki and issue tracker are managed on GitHub at [https://github.com/wmo-im/wis2box-training](https://github.com/wmo-im/wis2box-training).
+The training contents, wiki and issue tracker are managed on GitHub at [https://github.com/hassan24265/wis2-box-training] (https://github.com/hassan24265/wis2-box-training).
 
 ## Printing the material
 
