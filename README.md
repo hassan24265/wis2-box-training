@@ -44,7 +44,7 @@ mkdocs serve  # website is made available on http://localhost:8000
 
 To make contributions back to the workshop, fork the repository from GitHub.  Contributions and Pull Requests are always welcome!
 
-Changes to the GitHub repository result in an automated build and deploy of the content to [training.wis2box.wis.has.int](https://training.wis2box.wis.has.int).
+Changes to the GitHub repository result in an automated build and deploy of the content to [training.wis2box.wis.has.int](https://hassan24265.github.io/wis2-box-training/).
 
 ## Deploying to live site
 
