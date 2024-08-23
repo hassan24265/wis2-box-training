@@ -87,7 +87,7 @@ Container names (running images) are denoted in **bold**.
 
 ## Training location and materials
 
-This training is always provided live at [https://training.wis2box.wis.has.int](https://training.wis2box.wis.has.int).
+This training is always provided live at [https://training.wis2box.wis.has.int](https://hassan24265.github.io/wis2-box-training).
 
 The training contents, wiki and issue tracker are managed on GitHub at [https://github.com/hassan24265/wis2-box-training] (https://github.com/hassan24265/wis2-box-training).
 
